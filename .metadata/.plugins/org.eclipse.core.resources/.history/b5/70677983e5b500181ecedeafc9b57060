@@ -1,0 +1,46 @@
+package com.jss.cursomc.dominio;
+
+public class Categoria {
+	public Integer Id;
+	public String nome;
+	
+	public Integer getId() {
+		return Id;
+	}
+
+	public void setId(Integer id) {
+		Id = id;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+
+
+	public Categoria(){
+	//construtor	
+	}
+
+
+
+	public Categoria(Integer id, String nome) {
+		//construtor de fields
+		super();
+		Id = id;
+		this.nome = nome;
+	}
+
+
+
+	@Override
+	public String toString() {
+		return "Categoria [Id=" + Id + ", nome=" + nome + "]";
+	}
+	
+	
+}
