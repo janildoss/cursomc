@@ -1,0 +1,5 @@
+package com.jss.cursomc.services;
+
+public class CategoriaService {
+
+}

@@ -1,0 +1,5 @@
+package com.jss.cursomc.repositories;
+
+public class CategoriaRepository {
+
+}
