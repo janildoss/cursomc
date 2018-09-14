@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.jss.cursomc.dominio.Categoria;
 import com.jss.cursomc.services.CategoriaService;
-
+//Controlador Rest
 @RestController
 @RequestMapping(value="categorias")
 public class CategoriaResources {
