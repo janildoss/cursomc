@@ -1,0 +1,53 @@
+package com.jss.cursomc.dominio;
+
+import java.io.Serializable;
+
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+
+public class Cidade implements Serializable {	
+	private static final long serialVersionUID = 1L;
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private Integer Id;
+	private String nome;
+	
+	@ManyToOne
+	@JoinColumn(name = "estado_id")
+	private Estado estado;
+	
+	private Cidade() {
+		
+	}
+
+	public Integer getId() {
+		return Id;
+	}
+
+	public void setId(Integer id) {
+		Id = id;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public Estado getEstado() {
+		return estado;
+	}
+
+	public void setEstado(Estado estado) {
+		this.estado = estado;
+	}
+	
+	
+
+}
