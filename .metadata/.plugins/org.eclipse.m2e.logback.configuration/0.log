@@ -1042,3 +1042,118 @@
 2018-09-17 12:07:10,801 [Worker-72: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-17 12:07:10,803 [Worker-72: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-17 12:07:10,803 [Worker-72: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 09:57:17,494 [Worker-170: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 09:57:18,029 [Worker-170: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 09:57:18,033 [Worker-170: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 09:57:18,044 [Worker-170: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 09:57:18,045 [Worker-170: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 09:59:10,652 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 09:59:10,653 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 09:59:10,655 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 09:59:10,658 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 09:59:10,658 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 10:01:45,587 [Worker-173: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:01:45,587 [Worker-173: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 10:01:45,590 [Worker-173: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 10:01:45,592 [Worker-173: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:01:45,592 [Worker-173: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 10:03:23,414 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:03:23,415 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 10:03:23,417 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 10:03:23,419 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:03:23,420 [Worker-174: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 10:03:40,911 [Worker-173: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:03:40,912 [Worker-173: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 10:03:40,916 [Worker-173: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 10:03:40,918 [Worker-173: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:03:40,918 [Worker-173: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 10:29:42,773 [Worker-184: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:29:42,773 [Worker-184: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 10:29:42,776 [Worker-184: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 10:29:42,778 [Worker-184: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 10:29:42,779 [Worker-184: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:30:59,746 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:30:59,789 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:30:59,793 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:30:59,796 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:30:59,796 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:31:03,235 [Worker-203: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:31:03,235 [Worker-203: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:31:03,237 [Worker-203: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:31:03,240 [Worker-203: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:31:03,240 [Worker-203: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:35:15,879 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:35:15,881 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:35:15,884 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:35:15,888 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:35:15,888 [Worker-205: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:41:25,115 [Worker-206: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:41:25,117 [Worker-206: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:41:25,120 [Worker-206: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:41:25,122 [Worker-206: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:41:25,122 [Worker-206: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:55:14,621 [Worker-217: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:55:14,623 [Worker-217: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:55:14,626 [Worker-217: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:55:14,628 [Worker-217: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:55:14,629 [Worker-217: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:56:01,834 [Worker-218: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:56:01,837 [Worker-218: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:56:01,840 [Worker-218: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:56:01,842 [Worker-218: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:56:01,842 [Worker-218: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 11:57:22,505 [Worker-211: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:57:22,506 [Worker-211: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 11:57:22,508 [Worker-211: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 11:57:22,510 [Worker-211: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 11:57:22,510 [Worker-211: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 12:02:40,217 [Worker-222: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 12:02:40,219 [Worker-222: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 12:02:40,222 [Worker-222: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 12:02:40,225 [Worker-222: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 12:02:40,225 [Worker-222: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 12:02:47,572 [Worker-215: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 12:02:47,572 [Worker-215: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 12:02:47,575 [Worker-215: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 12:02:47,577 [Worker-215: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 12:02:47,577 [Worker-215: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 13:37:10,481 [Worker-227: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:37:10,508 [Worker-227: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 13:37:10,512 [Worker-227: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 13:37:10,514 [Worker-227: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:37:10,514 [Worker-227: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 13:37:17,704 [Worker-235: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:37:17,704 [Worker-235: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 13:37:17,707 [Worker-235: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 13:37:17,709 [Worker-235: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:37:17,709 [Worker-235: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 13:51:34,105 [Worker-241: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:51:34,106 [Worker-241: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 13:51:34,109 [Worker-241: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 13:51:34,117 [Worker-241: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:51:34,117 [Worker-241: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 13:51:39,165 [Worker-238: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:51:39,166 [Worker-238: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 13:51:39,168 [Worker-238: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 13:51:39,170 [Worker-238: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 13:51:39,170 [Worker-238: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 14:28:00,948 [Worker-252: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:28:00,949 [Worker-252: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 14:28:00,953 [Worker-252: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 14:28:00,955 [Worker-252: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:28:00,955 [Worker-252: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 14:28:09,361 [Worker-250: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:28:09,361 [Worker-250: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 14:28:09,364 [Worker-250: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 14:28:09,366 [Worker-250: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:28:09,366 [Worker-250: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 14:45:46,768 [Worker-264: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:45:46,770 [Worker-264: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 14:45:46,773 [Worker-264: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 14:45:46,776 [Worker-264: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:45:46,776 [Worker-264: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-18 14:45:53,499 [Worker-261: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:45:53,499 [Worker-261: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 14:45:53,501 [Worker-261: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 14:45:53,503 [Worker-261: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 14:45:53,504 [Worker-261: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
