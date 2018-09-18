@@ -1,0 +1,5 @@
+package com.jss.cursomc.dominio.enums;
+
+public enum TipoCliente {
+
+}
