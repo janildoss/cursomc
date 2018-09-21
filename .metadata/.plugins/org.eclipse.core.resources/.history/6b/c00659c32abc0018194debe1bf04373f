@@ -1,0 +1,25 @@
+package com.jss.cursomc.dominio;
+
+import java.util.Date;
+
+import com.jss.cursomc.dominio.enums.EstadoPagamento;
+
+public class PagamentoComBoleto extends Pagamento {
+	private Date dataVencimento;
+	private Date dataPagamento;
+	
+	public PagamentoComBoleto() {
+		
+	}
+
+	public PagamentoComBoleto(Integer id, EstadoPagamento estado, Pedido pedido, Data dataVencimento,Date dataPagamento) {
+		super(id, estado, pedido);
+		// TODO Auto-generated constructor stub
+		this.dataPagamento = dataPagamento;
+		this.dataVencimento = dataVencimento;
+		
+	}
+	
+	
+
+}

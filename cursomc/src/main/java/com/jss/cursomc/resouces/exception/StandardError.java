@@ -2,7 +2,7 @@ package com.jss.cursomc.resouces.exception;
 
 import java.io.Serializable;
 
-import org.springframework.http.HttpStatus;
+//import org.springframework.http.HttpStatus;
 
 public class StandardError implements Serializable {
 	private static final long serialVersionUID = 1L;
@@ -47,8 +47,6 @@ public class StandardError implements Serializable {
 		this.status = i;
 		this.msg = msg;
 		this.timeStamp = timeStamp;
-	}
-	
-	
+	}	
 
 }

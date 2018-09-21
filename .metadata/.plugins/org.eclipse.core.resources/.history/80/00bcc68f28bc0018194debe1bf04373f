@@ -1,0 +1,14 @@
+package com.jss.cursomc.dominio;
+
+import com.jss.cursomc.dominio.enums.EstadoPagamento;
+
+public class Pagamento {
+	private Integer id;
+	private EstadoPagamento estado;
+    //Associacoes
+	private Pedido pedido;
+	private Endereco enderecoDeEntrega;
+	
+	
+	
+}

@@ -1,0 +1,8 @@
+package com.jss.cursomc.dominio;
+
+public class Pagamento {
+	private Integer id;
+	private EstadoPagamento estado;
+	
+
+}

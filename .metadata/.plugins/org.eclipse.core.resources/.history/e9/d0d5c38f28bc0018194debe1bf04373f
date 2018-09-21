@@ -1,0 +1,7 @@
+package com.jss.cursomc.dominio;
+
+public class PagamentoComCartao {
+
+	 private Integer numeroDeParcelas;
+	 
+}

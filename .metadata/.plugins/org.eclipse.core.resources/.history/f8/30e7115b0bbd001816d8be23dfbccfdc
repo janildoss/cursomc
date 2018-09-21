@@ -1,0 +1,9 @@
+package com.jss.cursomc.dominio;
+
+public class Pedido {
+	private Integer id;
+	private String instante;
+	
+	
+
+}
