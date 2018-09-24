@@ -1418,3 +1418,13 @@
 2018-09-21 16:50:01,923 [Worker-112: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-21 16:50:01,926 [Worker-112: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-21 16:50:01,926 [Worker-112: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-24 10:42:08,712 [Worker-18: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-24 10:42:08,803 [Worker-18: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-24 10:42:08,824 [Worker-18: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-24 10:42:08,827 [Worker-18: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-24 10:42:08,827 [Worker-18: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources
+2018-09-24 11:49:24,688 [Worker-31: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-24 11:49:24,691 [Worker-31: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-24 11:49:24,695 [Worker-31: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-24 11:49:24,697 [Worker-31: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-24 11:49:24,697 [Worker-31: Launching cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\prj_sts\cursomc\cursomc\src\test\resources

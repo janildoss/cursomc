@@ -31,4 +31,6 @@
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="com.jss.cursomc.dominio.ItemPedido"/>
+<fullyQualifiedTypeName name="com.jss.cursomc.repositories.ItemPedidoRepository"/>
 </qualifiedTypeNameHistroy>
