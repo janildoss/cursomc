@@ -14,7 +14,6 @@ INDEX VERSION 1.131+E:\prj_sts\cursomc\.metadata\.plugins\org.eclipse.jdt.core
 3825310421.index
 2747860383.index
 3627084181.index
-1004660258.index
 2430679648.index
 4193226764.index
 462812072.index
