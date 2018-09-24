@@ -1,0 +1,13 @@
+package com.jss.cursomc.dominio;
+
+public class ItemPedido {
+	
+	private ItemPedidoPK id =  new ItemPedidoPK();//id composto
+	private Double desconto;
+	private Integer quantidade;
+	private Double preco;
+	
+
+
+	
+}

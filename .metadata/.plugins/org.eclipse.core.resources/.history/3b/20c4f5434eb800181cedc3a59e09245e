@@ -1,5 +1,0 @@
-package com.jss.cursomc.services.Exception;
-
-public class ObjectNotFoundException {
-
-}
