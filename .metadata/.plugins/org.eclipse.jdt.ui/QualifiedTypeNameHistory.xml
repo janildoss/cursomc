@@ -33,4 +33,7 @@
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="com.jss.cursomc.dominio.ItemPedido"/>
 <fullyQualifiedTypeName name="com.jss.cursomc.repositories.ItemPedidoRepository"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonBackReference"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
 </qualifiedTypeNameHistroy>
