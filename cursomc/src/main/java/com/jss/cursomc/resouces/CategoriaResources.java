@@ -3,6 +3,7 @@ package com.jss.cursomc.resouces;
 
 
 import java.net.URI;
+import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -32,7 +33,8 @@ public class CategoriaResources {
 	@RequestMapping(method=RequestMethod.POST)
 	public ResponseEntity<Void> insert(@RequestBody Categoria obj){
 		obj = service.insert(obj);
-		URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(obj.getId()).toUri();
+		URI uri = ServletUriComponentsBuilder.fromCurrentRequest()
+				.path("/{id}").buildAndExpand(obj.getId()).toUri();
 		return ResponseEntity.created(uri).build();
 	}
 	
@@ -42,5 +44,18 @@ public class CategoriaResources {
 		obj = service.update(obj);
 		return ResponseEntity.noContent().build();		
 	}
+	
+	@RequestMapping(value="/{id}",method=RequestMethod.DELETE)
+	public ResponseEntity<Void> delete(@PathVariable Integer id) {			
+		service.delete(id);
+		return ResponseEntity.noContent().build();		
+	}	
+	
+	@RequestMapping(method=RequestMethod.GET)
+	public ResponseEntity<List<Categoria>> findAll() {		
+		List<Categoria> list = service.findAll();
+		return ResponseEntity.ok().body(list);		
+	}
+	
 
 }
