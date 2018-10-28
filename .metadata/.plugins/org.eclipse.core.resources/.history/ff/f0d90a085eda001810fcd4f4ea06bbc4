@@ -1,0 +1,5 @@
+package com.jss.cursomc.DTO;
+
+public class CategoriaDTO {
+
+}
