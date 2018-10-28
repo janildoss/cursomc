@@ -63,6 +63,7 @@ public class Categoria implements Serializable {
 	}
 
 
+
 	@Override
 	public String toString() {
 		return "Categoria [Id=" + Id + ", nome=" + nome + "]";
@@ -93,5 +94,6 @@ public class Categoria implements Serializable {
 			return false;
 		return true;
 	}
-		
+	
+	
 }

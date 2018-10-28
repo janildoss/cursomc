@@ -7,24 +7,24 @@ import com.jss.cursomc.dominio.Categoria;
 public class CategoriaDTO implements Serializable {	
 	private static final long serialVersionUID = 1L;
 	
-	public Integer id;
+	public Integer Id;
 	public String nome;
 
 	public CategoriaDTO() {		
 	}
 	
 	public CategoriaDTO(Categoria obj){
-		  id = obj.getId();
+		  Id = obj.getId();
 		  nome = obj.getNome();
 
 		}
 
 	public Integer getId() {
-		return id; 
+		return Id; 
 	}
 
 	public void setId(Integer id) {
-		id = id;
+		Id = id;
 	}
 
 	public String getNome() {
